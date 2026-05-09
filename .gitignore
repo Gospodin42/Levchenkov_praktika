@@ -1,0 +1,14 @@
+# Compiled files
+*.exe
+*.out
+*.obj
+*.o
+
+# IDE folders
+.vscode/
+.idea/
+*.swp
+
+# OS garbage
+.DS_Store
+Thumbs.db
