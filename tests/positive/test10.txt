@@ -1,0 +1,5 @@
+15:00 Late_Flight B-9999 999
+08:00 Early_Flight B-1000 100
+12:00 Mid_Flight B-5000 500
+06:00 Very_Early B-0001 001
+20:00 Evening_Flight B-8000 800

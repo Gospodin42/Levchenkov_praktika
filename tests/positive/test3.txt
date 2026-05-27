@@ -1,0 +1,4 @@
+06:00 Embraer_E175 B-1111 111
+12:30 Boeing-747 B-2222 222
+18:45 Airbus_A330 B-3333 333
+22:00 Sukhoi_Superjet B-4444 444
